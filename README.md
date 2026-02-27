@@ -5,6 +5,7 @@ developers diagnose and monitor widget rebuild behavior. This package is
 useful for performance tuning and understanding unnecessary widget
 rebuilds in Flutter applications.
 
+[A Complete Guide to Create Widget Rebuild Diagnostics Toolkit in Flutter.](https://www.sevensquaretech.com/build-flutter-widget-rebuild-diagnostics-toolkit-with-code/)
 ---
 
 📦 Package Information
