@@ -1,0 +1,7 @@
+name: widget_rebuild_diagnostics_toolkit
+
+environment:
+  sdk: ^3.11.0
+
+dev_dependencies:
+  melos: ^6.0.0
